@@ -1,16 +1,21 @@
-## Hi there 👋
+# Matheus Inácio
 
-<!--
-**matheusinacio-dev/matheusinacio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na SATC, construindo as bases para o desenvolvimento full-stack.
+Fundação antes de velocidade.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)](https://skillicons.dev)
+
+## Projects
+
+| Project | Status | Tech |
+|---|---|---|
+| [DevLinks](https://github.com/matheusinacio-dev/devlinks) | 🚧 Em desenvolvimento | HTML · CSS · JS |
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusinacio-dev)
+
+---
+*O objetivo não é chegar logo. É chegar bem.*

@@ -6,7 +6,7 @@ Fundação antes de velocidade.
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git)
 
 ## Projects
 

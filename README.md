@@ -12,7 +12,7 @@ Fundação antes de velocidade.
 
 | Project | Status | Tech |
 |---|---|---|
-| [DevLinks](https://github.com/matheusinacio-dev/devlinks) | 🚧 Em desenvolvimento | HTML · CSS · JS |
+
 
 ## Connect
 
